@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+html>*{
+font-family: 'Ubuntu', sans-serif;;
+}
+
+
+body{
+    background-color: #EEF4ED;
+}
+
+.carousel{
+    margin: auto;
+}
+
+
+.navbar {
+    background-color: rgb(85, 81, 129);
+}
+
+.alert {
+    background-color: rgb(255, 255, 255);
+width: 40%;
+margin-left: 59%;
+}
+
+
+
+.nav-item{
+    color: white;
+}
