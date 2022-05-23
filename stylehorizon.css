@@ -6,7 +6,7 @@ font-family: 'Ubuntu', sans-serif;;
 }
 
 body{
-    background-color: #908aa0;
+    background-color: #7a9284;
 }
 
 .carousel{
@@ -16,15 +16,14 @@ body{
 .card{
     margin-left: 1%;
     display:inline-block;
-    background-color: #ddd6e6;
 }
 
 .navbar {
-    background-color: rgb(85, 81, 129);
+    background-color: #628062;
 }
 
 .alert {
-    background-color: rgb(255, 255, 255);
+    background-color: #ffffff;
 width: 40%;
 margin-left: 59%;
 }
@@ -35,6 +34,15 @@ margin-left: 59%;
 }
 
 
+.footer>*{
+    color: black
+    ;
+}
+
+.carousel{
+    width: 80%;
+}
+
 .btn-social {
   border-radius: 100%;
   display: inline-flex;
@@ -43,17 +51,17 @@ margin-left: 59%;
   font-size: 1.25rem;
   justify-content: center;
   align-items: center;
-  background-color: rgb(88, 88, 122) ;
+  background-color: rgb(90, 161, 97) ;
 }
 
 
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2c3e50;
+  background-color: #486b56;
   color: #fff;
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: #1d502e;
 }
